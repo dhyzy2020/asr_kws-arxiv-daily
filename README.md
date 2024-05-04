@@ -15,6 +15,7 @@
     <li><a href=#keypoint-detection>Keypoint Detection</a></li>
     <li><a href=#image-matching>Image Matching</a></li>
     <li><a href=#nerf>NeRF</a></li>
+    <li><a href=#kws>KWS</a></li>
   </ol>
 </details>
 
@@ -2482,6 +2483,23 @@
 |**2022-08-01**|**End-to-end View Synthesis via NeRF Attention**|Zelin Zhao et.al.|[2207.14741](http://arxiv.org/abs/2207.14741)|null|
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
+
+<p align=right>(<a href=#updated-on-20240504>back to top</a>)</p>
+
+## KWS
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2024-04-23**|**Multi-Sample Dynamic Time Warping for Few-Shot Keyword Spotting**|Kevin Wilkinghoff et.al.|[2404.14903](http://arxiv.org/abs/2404.14903)|null|
+|**2024-04-10**|**What is Learnt by the LEArnable Front-end (LEAF)? Adapting Per-Channel Energy Normalisation (PCEN) to Noisy Conditions**|Hanyu Meng et.al.|[2404.06702](http://arxiv.org/abs/2404.06702)|**[link](https://github.com/hanyu-meng/adapting-leaf)**|
+|**2024-04-18**|**Open vocabulary keyword spotting through transfer learning from speech synthesis**|Kesavaraj V et.al.|[2404.03914](http://arxiv.org/abs/2404.03914)|null|
+|**2024-03-27**|**Noise-Robust Keyword Spotting through Self-supervised Pretraining**|Jacob Mørk et.al.|[2403.18560](http://arxiv.org/abs/2403.18560)|**[link](https://github.com/aau-es-ml/ssl_noise-robust_kws)**|
+|**2024-03-20**|**TDT-KWS: Fast And Accurate Keyword Spotting Using Token-and-duration Transducer**|Yu Xi et.al.|[2403.13332](http://arxiv.org/abs/2403.13332)|null|
+|**2024-03-12**|**On-Device Domain Learning for Keyword Spotting on Low-Power Extreme Edge Embedded Systems**|Cristian Cioflan et.al.|[2403.10549](http://arxiv.org/abs/2403.10549)|null|
+|**2024-03-14**|**More than words: Advancements and challenges in speech recognition for singing**|Anna Kruspe et.al.|[2403.09298](http://arxiv.org/abs/2403.09298)|null|
+|**2024-03-14**|**DiTMoS: Delving into Diverse Tiny-Model Selection on Microcontrollers**|Xiao Ma et.al.|[2403.09035](http://arxiv.org/abs/2403.09035)|**[link](https://github.com/themaxiao/ditmos)**|
+|**2024-03-12**|**Boosting keyword spotting through on-device learnable user speech characteristics**|Cristian Cioflan et.al.|[2403.07802](http://arxiv.org/abs/2403.07802)|null|
+|**2024-03-03**|**A Closer Look at Wav2Vec2 Embeddings for On-Device Single-Channel Speech Enhancement**|Ravi Shankar et.al.|[2403.01369](http://arxiv.org/abs/2403.01369)|null|
 
 <p align=right>(<a href=#updated-on-20240504>back to top</a>)</p>
 
