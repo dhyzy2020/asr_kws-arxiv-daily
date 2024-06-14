@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.13
+## Updated on 2024.06.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1770,7 +1770,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-12**|**ICE-G: Image Conditional Editing of 3D Gaussian Splats**|Vishnu Jaganathan et.al.|[2406.08488](http://arxiv.org/abs/2406.08488)|null|
 |**2024-06-12**|**OpenObj: Open-Vocabulary Object-Level Neural Radiance Fields with Fine-Grained Understanding**|Yinan Deng et.al.|[2406.08009](http://arxiv.org/abs/2406.08009)|**[link](https://github.com/BIT-DYN/OpenObj)**|
-|**2024-06-12**|**Spatial Annealing Smoothing for Efficient Few-shot Neural Rendering**|Yuru Xiao et.al.|[2406.07828](http://arxiv.org/abs/2406.07828)|null|
+|**2024-06-12**|**Spatial Annealing Smoothing for Efficient Few-shot Neural Rendering**|Yuru Xiao et.al.|[2406.07828](http://arxiv.org/abs/2406.07828)|**[link](https://github.com/pulangk97/SANeRF)**|
 |**2024-06-11**|**C3DAG: Controlled 3D Animal Generation using 3D pose guidance**|Sandeep Mishra et.al.|[2406.07742](http://arxiv.org/abs/2406.07742)|null|
 |**2024-06-11**|**M-LRM: Multi-view Large Reconstruction Model**|Mengfei Li et.al.|[2406.07648](http://arxiv.org/abs/2406.07648)|null|
 |**2024-06-11**|**Active Scout: Multi-Target Tracking Using Neural Radiance Fields in Dense Urban Environments**|Christopher D. Hsu et.al.|[2406.07431](http://arxiv.org/abs/2406.07431)|null|
@@ -2631,7 +2631,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-12**|**CTC-aligned Audio-Text Embedding for Streaming Open-vocabulary Keyword Spotting**|Sichen Jin et.al.|[2406.07923](http://arxiv.org/abs/2406.07923)|null|
-|**2024-06-11**|**MM-KWS: Multi-modal Prompts for Multilingual User-defined Keyword Spotting**|Zhiqi Ai et.al.|[2406.07310](http://arxiv.org/abs/2406.07310)|null|
+|**2024-06-11**|**MM-KWS: Multi-modal Prompts for Multilingual User-defined Keyword Spotting**|Zhiqi Ai et.al.|[2406.07310](http://arxiv.org/abs/2406.07310)|**[link](https://github.com/aizhiqi-work/MM-KWS)**|
 |**2024-06-09**|**Sparse Binarization for Fast Keyword Spotting**|Jonathan Svirsky et.al.|[2406.06634](http://arxiv.org/abs/2406.06634)|null|
 |**2024-06-08**|**Relational Proxy Loss for Audio-Text based Keyword Spotting**|Youngmoon Jung et.al.|[2406.05314](http://arxiv.org/abs/2406.05314)|null|
 |**2024-06-04**|**Keyword-Guided Adaptation of Automatic Speech Recognition**|Aviv Shamsian et.al.|[2406.02649](http://arxiv.org/abs/2406.02649)|null|
