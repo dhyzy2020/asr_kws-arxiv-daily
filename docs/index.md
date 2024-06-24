@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.23
+## Updated on 2024.06.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2672,7 +2672,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-20**|**DASB -- Discrete Audio and Speech Benchmark**|Pooneh Mousavi et.al.|[2406.14294](http://arxiv.org/abs/2406.14294)|null|
+|**2024-06-21**|**DASB -- Discrete Audio and Speech Benchmark**|Pooneh Mousavi et.al.|[2406.14294](http://arxiv.org/abs/2406.14294)|null|
 |**2024-06-19**|**Global-Local Convolution with Spiking Neural Networks for Energy-efficient Keyword Spotting**|Shuai Wang et.al.|[2406.13179](http://arxiv.org/abs/2406.13179)|null|
 |**2024-06-14**|**ED-sKWS: Early-Decision Spiking Neural Networks for Rapid,and Energy-Efficient Keyword Spotting**|Zeyang Song et.al.|[2406.12726](http://arxiv.org/abs/2406.12726)|null|
 |**2024-06-18**|**Text-aware Speech Separation for Multi-talker Keyword Spotting**|Haoyu Li et.al.|[2406.12447](http://arxiv.org/abs/2406.12447)|**[link](https://github.com/gnafiy/tpdt-ss-kws)**|
