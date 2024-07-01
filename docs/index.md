@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.30
+## Updated on 2024.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2697,7 +2697,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-26**|**Advancing Airport Tower Command Recognition: Integrating Squeeze-and-Excitation and Broadcasted Residual Learning**|Yuanxi Lin et.al.|[2406.18313](http://arxiv.org/abs/2406.18313)|null|
+|**2024-06-28**|**Advancing Airport Tower Command Recognition: Integrating Squeeze-and-Excitation and Broadcasted Residual Learning**|Yuanxi Lin et.al.|[2406.18313](http://arxiv.org/abs/2406.18313)|null|
 |**2024-06-21**|**Micro-power spoken keyword spotting on Xylo Audio 2**|Hannah Bos et.al.|[2406.15112](http://arxiv.org/abs/2406.15112)|null|
 |**2024-06-21**|**DASB - Discrete Audio and Speech Benchmark**|Pooneh Mousavi et.al.|[2406.14294](http://arxiv.org/abs/2406.14294)|null|
 |**2024-06-19**|**Global-Local Convolution with Spiking Neural Networks for Energy-efficient Keyword Spotting**|Shuai Wang et.al.|[2406.13179](http://arxiv.org/abs/2406.13179)|null|
