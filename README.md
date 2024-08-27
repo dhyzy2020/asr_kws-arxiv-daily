@@ -684,6 +684,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-25**|**LowCLIP: Adapting the CLIP Model Architecture for Low-Resource Languages in Multimodal Image Retrieval Task**|Ali Asgarov et.al.|[2408.13909](http://arxiv.org/abs/2408.13909)|**[link](https://github.com/aliasgerovs/azclip)**|
+|**2024-08-15**|**Cross-Modal Denoising: A Novel Training Paradigm for Enhancing Speech-Image Retrieval**|Lifeng Zhou et.al.|[2408.13705](http://arxiv.org/abs/2408.13705)|null|
 |**2024-08-15**|**Coarse-to-fine Alignment Makes Better Speech-image Retrieval**|Lifeng Zhou et.al.|[2408.13119](http://arxiv.org/abs/2408.13119)|null|
 |**2024-08-21**|**FUSELOC: Fusing Global and Local Descriptors to Disambiguate 2D-3D Matching in Visual Localization**|Son Tung Nguyen et.al.|[2408.12037](http://arxiv.org/abs/2408.12037)|null|
 |**2024-08-21**|**Visual Localization in 3D Maps: Comparing Point Cloud, Mesh, and NeRF Representations**|Lintong Zhang et.al.|[2408.11966](http://arxiv.org/abs/2408.11966)|null|
@@ -1687,6 +1689,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-26**|**Affine steerers for structured keypoint description**|Georg Bökman et.al.|[2408.14186](http://arxiv.org/abs/2408.14186)|**[link](https://github.com/georg-bn/affine-steerers)**|
+|**2024-08-25**|**TranSplat: Generalizable 3D Gaussian Splatting from Sparse Multi-View Images with Transformers**|Chuanrui Zhang et.al.|[2408.13770](http://arxiv.org/abs/2408.13770)|null|
 |**2024-08-15**|**Coarse-to-fine Alignment Makes Better Speech-image Retrieval**|Lifeng Zhou et.al.|[2408.13119](http://arxiv.org/abs/2408.13119)|null|
 |**2024-08-19**|**BrewCLIP: A Bifurcated Representation Learning Framework for Audio-Visual Retrieval**|Zhenyu Lu et.al.|[2408.10383](http://arxiv.org/abs/2408.10383)|null|
 |**2024-08-14**|**RSD-DOG : A New Image Descriptor based on Second Order Derivatives**|Darshan Venkatrayappa et.al.|[2408.07687](http://arxiv.org/abs/2408.07687)|null|
@@ -1919,6 +1923,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-26**|**FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry**|Chunran Zheng et.al.|[2408.14035](http://arxiv.org/abs/2408.14035)|**[link](https://github.com/hku-mars/fast-livo2)**|
+|**2024-08-25**|**TranSplat: Generalizable 3D Gaussian Splatting from Sparse Multi-View Images with Transformers**|Chuanrui Zhang et.al.|[2408.13770](http://arxiv.org/abs/2408.13770)|null|
+|**2024-08-24**|**G3DST: Generalizing 3D Style Transfer with Neural Radiance Fields across Scenes and Styles**|Adil Meric et.al.|[2408.13508](http://arxiv.org/abs/2408.13508)|null|
+|**2024-08-23**|**SIn-NeRF2NeRF: Editing 3D Scenes with Instructions through Segmentation and Inpainting**|Jiseung Hong et.al.|[2408.13285](http://arxiv.org/abs/2408.13285)|**[link](https://github.com/kaistchangmin/sin-nerf2nerf)**|
 |**2024-08-21**|**Visual Localization in 3D Maps: Comparing Point Cloud, Mesh, and NeRF Representations**|Lintong Zhang et.al.|[2408.11966](http://arxiv.org/abs/2408.11966)|null|
 |**2024-08-21**|**Irregularity Inspection using Neural Radiance Field**|Tianqi Ding et.al.|[2408.11251](http://arxiv.org/abs/2408.11251)|null|
 |**2024-08-20**|**GSLoc: Efficient Camera Pose Refinement via 3D Gaussian Splatting**|Changkun Liu et.al.|[2408.11085](http://arxiv.org/abs/2408.11085)|null|
@@ -2919,6 +2927,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-23**|**Disentangled Training with Adversarial Examples For Robust Small-footprint Keyword Spotting**|Zhenyu Wang et.al.|[2408.13355](http://arxiv.org/abs/2408.13355)|null|
 |**2024-08-22**|**Self-Learning for Personalized Keyword Spotting on Ultra-Low-Power Audio Sensors**|Manuele Rusci et.al.|[2408.12481](http://arxiv.org/abs/2408.12481)|null|
 |**2024-08-16**|**Convexity-based Pruning of Speech Representation Models**|Teresa Dorszewski et.al.|[2408.11858](http://arxiv.org/abs/2408.11858)|null|
 |**2024-08-20**|**Adversarial training of Keyword Spotting to Minimize TTS Data Overfitting**|Hyun Jin Park et.al.|[2408.10463](http://arxiv.org/abs/2408.10463)|null|
