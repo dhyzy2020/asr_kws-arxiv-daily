@@ -2041,6 +2041,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-22**|**LVSM: A Large View Synthesis Model with Minimal 3D Inductive Bias**|Haian Jin et.al.|[2410.17242](http://arxiv.org/abs/2410.17242)|null|
+|**2024-10-18**|**GS-LIVM: Real-Time Photo-Realistic LiDAR-Inertial-Visual Mapping with Gaussian Splatting**|Yusen Xie et.al.|[2410.17084](http://arxiv.org/abs/2410.17084)|null|
+|**2024-10-22**|**E-3DGS: Gaussian Splatting with Exposure and Motion Events**|Xiaoting Yin et.al.|[2410.16995](http://arxiv.org/abs/2410.16995)|null|
+|**2024-10-21**|**Joker: Conditional 3D Head Synthesis with Extreme Facial Expressions**|Malte Prinzler et.al.|[2410.16395](http://arxiv.org/abs/2410.16395)|null|
 |**2024-10-21**|**FrugalNeRF: Fast Convergence for Few-shot Novel View Synthesis without Learned Priors**|Chin-Yang Lin et.al.|[2410.16271](http://arxiv.org/abs/2410.16271)|null|
 |**2024-10-20**|**EF-3DGS: Event-Aided Free-Trajectory 3D Gaussian Splatting**|Bohao Liao et.al.|[2410.15392](http://arxiv.org/abs/2410.15392)|null|
 |**2024-10-19**|**Neural Radiance Field Image Refinement through End-to-End Sampling Point Optimization**|Kazuhiro Ohta et.al.|[2410.14958](http://arxiv.org/abs/2410.14958)|null|
@@ -3132,6 +3136,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-22**|**GE2E-KWS: Generalized End-to-End Training and Evaluation for Zero-shot Keyword Spotting**|Pai Zhu et.al.|[2410.16647](http://arxiv.org/abs/2410.16647)|null|
 |**2024-10-10**|**Audio Explanation Synthesis with Generative Foundation Models**|Alican Akman et.al.|[2410.07530](http://arxiv.org/abs/2410.07530)|**[link](https://github.com/glam-imperial/AudioXgen)**|
 |**2024-09-16**|**A Literature Review of Keyword Spotting Technologies for Urdu**|Syed Muhammad Aqdas Rizvi et.al.|[2409.16317](http://arxiv.org/abs/2409.16317)|null|
 |**2024-09-06**|**SLiCK: Exploiting Subsequences for Length-Constrained Keyword Spotting**|Kumari Nishu et.al.|[2409.09067](http://arxiv.org/abs/2409.09067)|null|
