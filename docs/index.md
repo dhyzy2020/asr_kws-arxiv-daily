@@ -2151,7 +2151,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-06**|**AE-NeRF: Augmenting Event-Based Neural Radiance Fields for Non-ideal Conditions and Larger Scene**|Chaoran Feng et.al.|[2501.02807](http://arxiv.org/abs/2501.02807)|null|
+|**2025-01-07**|**NeuralSVG: An Implicit Representation for Text-to-Vector Generation**|Sagi Polaczek et.al.|[2501.03992](http://arxiv.org/abs/2501.03992)|null|
+|**2025-01-07**|**DehazeGS: Seeing Through Fog with 3D Gaussian Splatting**|Jinze Yu et.al.|[2501.03659](http://arxiv.org/abs/2501.03659)|null|
+|**2025-01-07**|**ConcealGS: Concealing Invisible Copyright Information in 3D Gaussian Splatting**|Yifeng Yang et.al.|[2501.03605](http://arxiv.org/abs/2501.03605)|null|
+|**2025-01-07**|**AE-NeRF: Augmenting Event-Based Neural Radiance Fields for Non-ideal Conditions and Larger Scene**|Chaoran Feng et.al.|[2501.02807](http://arxiv.org/abs/2501.02807)|null|
 |**2024-12-29**|**Bringing Objects to Life: 4D generation from 3D objects**|Ohad Rahamim et.al.|[2412.20422](http://arxiv.org/abs/2412.20422)|null|
 |**2024-12-27**|**Learning Radiance Fields from a Single Snapshot Compressive Image**|Yunhao Li et.al.|[2412.19483](http://arxiv.org/abs/2412.19483)|null|
 |**2025-01-05**|**BeSplat: Gaussian Splatting from a Single Blurry Image and Event Stream**|Gopi Raju Matta et.al.|[2412.19370](http://arxiv.org/abs/2412.19370)|null|
@@ -3350,6 +3353,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-07**|**Vocal Tract Length Warped Features for Spoken Keyword Spotting**|Achintya kr. Sarkar et.al.|[2501.03523](http://arxiv.org/abs/2501.03523)|null|
 |**2024-12-30**|**Phoneme-Level Contrastive Learning for User-Defined Keyword Spotting with Flexible Enrollment**|Li Kewei et.al.|[2412.20805](http://arxiv.org/abs/2412.20805)|null|
 |**2024-12-24**|**Text-Aware Adapter for Few-Shot Keyword Spotting**|Youngmoon Jung et.al.|[2412.18142](http://arxiv.org/abs/2412.18142)|null|
 |**2024-12-24**|**Streaming Keyword Spotting Boosted by Cross-layer Discrimination Consistency**|Yu Xi et.al.|[2412.12635](http://arxiv.org/abs/2412.12635)|null|
