@@ -466,7 +466,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-13**|**SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**|Yue Hu et.al.|[2501.07015](http://arxiv.org/abs/2501.07015)|null|
+|**2025-01-14**|**SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**|Yue Hu et.al.|[2501.07015](http://arxiv.org/abs/2501.07015)|null|
 |**2025-01-12**|**CULTURE3D: Cultural Landmarks and Terrain Dataset for 3D Applications**|Xinyi Zheng et.al.|[2501.06927](http://arxiv.org/abs/2501.06927)|null|
 |**2025-01-11**|**Aug3D: Augmenting large scale outdoor datasets for Generalizable Novel View Synthesis**|Aditya Rauniyar et.al.|[2501.06431](http://arxiv.org/abs/2501.06431)|null|
 |**2025-01-06**|**Targetless Intrinsics and Extrinsic Calibration of Multiple LiDARs and Cameras with IMU using Continuous-Time Estimation**|Yuezhang Lv et.al.|[2501.02821](http://arxiv.org/abs/2501.02821)|null|
@@ -723,6 +723,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-15**|**Vision Foundation Models for Computed Tomography**|Suraj Pai et.al.|[2501.09001](http://arxiv.org/abs/2501.09001)|null|
+|**2025-01-12**|**SCOT: Self-Supervised Contrastive Pretraining For Zero-Shot Compositional Retrieval**|Bhavin Jawade et.al.|[2501.08347](http://arxiv.org/abs/2501.08347)|null|
 |**2025-01-14**|**VINGS-Mono: Visual-Inertial Gaussian Splatting Monocular SLAM in Large Scenes**|Ke Wu et.al.|[2501.08286](http://arxiv.org/abs/2501.08286)|null|
 |**2025-01-13**|**Efficiently Closing Loops in LiDAR-Based SLAM Using Point Cloud Density Maps**|Saurabh Gupta et.al.|[2501.07399](http://arxiv.org/abs/2501.07399)|null|
 |**2025-01-12**|**Static Segmentation by Tracking: A Frustratingly Label-Efficient Approach to Fine-Grained Segmentation**|Zhenyang Feng et.al.|[2501.06749](http://arxiv.org/abs/2501.06749)|null|
@@ -2161,9 +2163,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-15**|**SLC $^2$ -SLAM: Semantic-guided Loop Closure with Shared Latent Code for NeRF SLAM**|Yuhang Ming et.al.|[2501.08880](http://arxiv.org/abs/2501.08880)|null|
 |**2025-01-14**|**VINGS-Mono: Visual-Inertial Gaussian Splatting Monocular SLAM in Large Scenes**|Ke Wu et.al.|[2501.08286](http://arxiv.org/abs/2501.08286)|null|
 |**2025-01-13**|**Evaluating Human Perception of Novel View Synthesis: Subjective Quality Assessment of Gaussian Splatting and NeRF in Dynamic Scenes**|Yuhang Zhang et.al.|[2501.08072](http://arxiv.org/abs/2501.08072)|null|
-|**2025-01-13**|**SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**|Yue Hu et.al.|[2501.07015](http://arxiv.org/abs/2501.07015)|null|
+|**2025-01-14**|**SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**|Yue Hu et.al.|[2501.07015](http://arxiv.org/abs/2501.07015)|null|
 |**2025-01-12**|**CULTURE3D: Cultural Landmarks and Terrain Dataset for 3D Applications**|Xinyi Zheng et.al.|[2501.06927](http://arxiv.org/abs/2501.06927)|null|
 |**2025-01-12**|**ActiveGAMER: Active GAussian Mapping through Efficient Rendering**|Liyan Chen et.al.|[2501.06897](http://arxiv.org/abs/2501.06897)|null|
 |**2025-01-12**|**SuperNeRF-GAN: A Universal 3D-Consistent Super-Resolution Framework for Efficient and Enhanced 3D-Aware Image Synthesis**|Peng Zheng et.al.|[2501.06770](http://arxiv.org/abs/2501.06770)|null|
@@ -3373,7 +3376,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-14**|**AfriHate: A Multilingual Collection of Hate Speech and Abusive Language Datasets for African Languages**|Shamsuddeen Hassan Muhammad et.al.|[2501.08284](http://arxiv.org/abs/2501.08284)|null|
+|**2025-01-15**|**AfriHate: A Multilingual Collection of Hate Speech and Abusive Language Datasets for African Languages**|Shamsuddeen Hassan Muhammad et.al.|[2501.08284](http://arxiv.org/abs/2501.08284)|**[link](https://github.com/afrihate/afrihate)**|
 |**2025-01-07**|**Vocal Tract Length Warped Features for Spoken Keyword Spotting**|Achintya kr. Sarkar et.al.|[2501.03523](http://arxiv.org/abs/2501.03523)|null|
 |**2024-12-30**|**Phoneme-Level Contrastive Learning for User-Defined Keyword Spotting with Flexible Enrollment**|Li Kewei et.al.|[2412.20805](http://arxiv.org/abs/2412.20805)|null|
 |**2024-12-24**|**Text-Aware Adapter for Few-Shot Keyword Spotting**|Youngmoon Jung et.al.|[2412.18142](http://arxiv.org/abs/2412.18142)|null|
