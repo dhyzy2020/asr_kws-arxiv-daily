@@ -2170,6 +2170,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-23**|**VIGS SLAM: IMU-based Large-Scale 3D Gaussian Splatting SLAM**|Gyuhyeon Pak et.al.|[2501.13402](http://arxiv.org/abs/2501.13402)|null|
 |**2025-01-22**|**Neural Radiance Fields for the Real World: A Survey**|Wenhui Xiao et.al.|[2501.13104](http://arxiv.org/abs/2501.13104)|null|
 |**2025-01-22**|**DWTNeRF: Boosting Few-shot Neural Radiance Fields via Discrete Wavelet Transform**|Hung Nguyen et.al.|[2501.12637](http://arxiv.org/abs/2501.12637)|null|
 |**2025-01-21**|**DNRSelect: Active Best View Selection for Deferred Neural Rendering**|Dongli Wu et.al.|[2501.12150](http://arxiv.org/abs/2501.12150)|null|
@@ -3390,6 +3391,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-22**|**Let SSMs be ConvNets: State-space Modeling with Optimal Tensor Contractions**|Yan Ru Pei et.al.|[2501.13230](http://arxiv.org/abs/2501.13230)|**[link](https://github.com/Brainchip-Inc/Centaurus)**|
 |**2025-01-20**|**Noise-Agnostic Multitask Whisper Training for Reducing False Alarm Errors in Call-for-Help Detection**|Myeonghoon Ryu et.al.|[2501.11631](http://arxiv.org/abs/2501.11631)|null|
 |**2025-01-15**|**AfriHate: A Multilingual Collection of Hate Speech and Abusive Language Datasets for African Languages**|Shamsuddeen Hassan Muhammad et.al.|[2501.08284](http://arxiv.org/abs/2501.08284)|**[link](https://github.com/afrihate/afrihate)**|
 |**2025-01-07**|**Vocal Tract Length Warped Features for Spoken Keyword Spotting**|Achintya kr. Sarkar et.al.|[2501.03523](http://arxiv.org/abs/2501.03523)|null|
